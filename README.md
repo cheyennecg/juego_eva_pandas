@@ -3,7 +3,7 @@
 Este proyecto forma parte de mi camino en el **Bootcamp**, donde estoy "trasteando" con Python para dominar la lógica de programación.
 
 ## 🌟 Origen del Proyecto
-Este juego nació a partir de un proyecto inicial de una **compañera del bootcamp**. Tomando su idea como base, pude explorar y entender de una manera muy didáctica cómo se estructuran las aplicaciones reales.
+Se trata de proyecto inicial de una **compañera del bootcamp** en el que nos invita limpiar una tabla de los registros de  los entrenamientos de una persona. Tomando su idea como base, pude explorar y entender de una manera muy didáctica cómo se estructuran las aplicaciones reales.
 
 Este repositorio contiene un ejercicio práctico en el que debemos de limpiar una tabla. 
 
